@@ -1,5 +1,5 @@
 import React from "react";
-import { Social, ProgressBar, Cursor } from "../components";
+import { Social, ProgressBar } from "../components";
 
 class Footer extends React.Component {
   state = {

@@ -1,5 +1,4 @@
 import React from "react";
-import { Card, Container } from "react-bootstrap";
 import styled from "styled-components";
 import Sample from "../pictures/anothersample.jpg";
 import { FiGithub } from "react-icons/fi";
